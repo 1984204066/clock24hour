@@ -1,6 +1,8 @@
 # clock24hour
 
-A new Flutter application.
+A new Flutter application. Copy from 
+https://github.com/hayoi/custom_widget
+https://github.com/zhaolongs/flutter_demo_app/blob/master/lib/canvas/test_bubble_login_page.dart
 
 ## Getting Started
 
