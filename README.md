@@ -6,6 +6,10 @@ https://github.com/hayoi/custom_widget
 
 https://github.com/zhaolongs/flutter_demo_app/blob/master/lib/canvas/test_bubble_login_page.dart
 
+reference:
+
+https://www.jianshu.com/p/de34cd3864a8
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
